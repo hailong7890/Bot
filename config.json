@@ -5,7 +5,7 @@
     "MAINTENANCE_MODE": false,
     "iconUnsend": {
         "status": true,
-        "icon": "❤"
+        "icon": "😆"
     },
     "notiGroup": false,
     "NOTIFICATION": true,
@@ -14,15 +14,15 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Lương Trường Khôi",
-    "AMDIN_NAME": "Có lỗi báo mình fix qua link bên dưới:",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/100018277053087",
+    "BOTNAME": "HW😜🖕🤪🫣🤫🙃💤💨",
+    "AMDIN_NAME": "Nguyễn Sỹ Hải Long",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/nguyen.sy.hai.long",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100018277053087"
+        "100069091017023"
     ],
     "NDH": [
-        "100018277053087"
+        "100069091017023"
     ],
     "DATABASE": {
         "sqlite": {
